@@ -1,0 +1,1 @@
+{"type":"Image","props":{"y":0,"x":0,"width":56,"skin":"game/2/handmah_28.png","presetID":1,"isPresetRoot":true,"height":85},"compId":25,"child":[{"type":"Image","props":{"y":0,"x":1,"width":56,"skin":"game/jin.png","presetID":3,"height":85},"compId":145}],"loadList":["game/2/handmah_28.png","game/jin.png"],"loadList3D":[]}

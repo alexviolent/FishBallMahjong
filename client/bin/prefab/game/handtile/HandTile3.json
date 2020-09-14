@@ -1,0 +1,1 @@
+{"type":"Box","props":{"y":0,"x":0,"width":36,"presetID":1,"isPresetRoot":true,"height":30},"compId":288,"child":[{"type":"Image","props":{"width":36,"skin":"game/hand_3.png","presetID":2,"height":78},"compId":287}],"loadList":["game/hand_3.png"],"loadList3D":[]}

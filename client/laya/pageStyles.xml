@@ -1,0 +1,8 @@
+<page>
+   <item name="test/TestScene.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="index/Index.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="game/Game.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="index/index.ui" props="" ifExport="分离模式" aName=""/>
+   <item name="LoadingView.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="popup/ResultDialog.scene" props="" ifExport="默认" aName=""/>
+</page>

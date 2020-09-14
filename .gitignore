@@ -1,0 +1,5 @@
+client/.rpt2_cache/
+web-server/node_modules/
+game-server/node_modules/
+game-server/dist/
+client/node_modules/

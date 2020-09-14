@@ -1,0 +1,1 @@
+{"type":"Box","props":{"name":"render","width":89,"height":135,"presetID":1,"isPresetRoot":true,"x":0,"y":0},"compId":262,"child":[{"type":"Image","props":{"skin":"game/2/handmah_21.png","presetID":2},"compId":263},{"type":"Image","props":{"skin":"game/jin.png","presetID":3},"compId":264}],"loadList":["game/2/handmah_21.png","game/jin.png"],"loadList3D":[]}

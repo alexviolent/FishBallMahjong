@@ -1,0 +1,36 @@
+{
+    "name": "HelloServer",
+    "version": "0.0.1",
+    "private": false,
+    "bin": {
+        "$": "./dist/bin/app.js"
+    },
+    "main": "./dist/app",
+    "scripts": {
+        "start": "npm run build && cd dist &&  node app",
+        "build": "node_modules/.bin/tsc"
+    },
+    "dependencies": {
+        "@types/bluebird": "^3.5.19",
+        "@types/node": "8.10.54",
+        "bluebird": "^3.5.1",
+        "http-status-codes": "^2.1.2",
+        "i": "^0.3.6",
+        "mysql-connection-pool-manager": "^1.5.9",
+        "node-sql-mapper": "^2.0.4",
+        "npm": "^6.14.4",
+        "pinus": "1.4.2",
+        "pinus-robot": "^1.4.2",
+        "pinus-robot-plugin": "^1.4.2",
+        "pomelo-sync-plugin": "0.0.2",
+        "rand-numb-gen": "^1.0.2",
+        "reflect-metadata": "^0.1.10",
+        "source-map-support": "^0.5.0",
+        "token": "^0.1.0"
+    },
+    "devDependencies": {
+        "@types/mysql": "^2.15.9",
+        "tslint": "5.20.1",
+        "typescript": "3.7.3"
+    }
+}
